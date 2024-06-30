@@ -85,10 +85,10 @@
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinithi678&show_icons=true&locale=en&layout=compact" alt="srinithi678" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshKumar-Balu&show_icons=true&locale=en&layout=compact" alt="DineshKumar-Balu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinithi678&show_icons=true&locale=en" alt="srinithi678" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshKumar-Balu8&show_icons=true&locale=en" alt="DineshKumar-Balu" /></p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Srinithi_52?theme=light&font=Marcellus)](https://leetcode.com/u/Srinithi_52/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Dinesh_Kumar_AI?theme=light&font=Marcellus)](https://leetcode.com/u/Dinesh_Kumar_AI/)
 
 
