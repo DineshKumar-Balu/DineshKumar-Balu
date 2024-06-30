@@ -64,8 +64,6 @@ Feel free to reach out to me:</h3>
   </a>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" height='45px' width='45px'/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height='45px' width='45px'/>
-  <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="65" height="65" />
-  <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="65" height="65" />
 </p>
 - Tools
 <br><br>
@@ -74,7 +72,9 @@ Feel free to reach out to me:</h3>
     <img src="https://skillicons.dev/icons?i=git,postman,figma" />
   </a>
     <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/> 
-   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height='45px' width='45px'/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height='45px' width='45px'/> 
+    <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="65" height="65" />
+    <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="65" height="65" />
        
 </p>
 -Game Engine
