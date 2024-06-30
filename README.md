@@ -68,7 +68,7 @@ Feel free to reach out to me:</h3>
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,figma,aws,Azure,Cloudflare,GCP" />
+    <img src="https://skillicons.dev/icons?i=git,postman,figma,aws,Azure,Cloudflare,GCP/>
   </a>
     <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/> 
 </p>
