@@ -88,7 +88,7 @@ Feel free to reach out to me:</h3>
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Dinesh_Kumar_AI?theme=light&font=Marcellus)](https://leetcode.com/u/Dinesh_Kumar_AI/)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshKumar-Balu8&show_icons=true&locale=en" alt="DineshKumar-Balu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DineshKumar-Balu&show_icons=true&locale=en" alt="DineshKumar-Balu" /></p>
 
 
 
