@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **DBMS,Java**
 
-- 💬 Ask me about **Machine Learning,Deep Learning,Genrative AI,Data Migration,GCP**
+- 💬 Ask me about **Machine Learning,Deep Learning,Genrative AI,Data Migration,GCP,Vertex AI**
 
 - 📫 How to reach me **dineshkumarb.21aid@kongu.edu**
  <br>
@@ -75,6 +75,7 @@ Feel free to reach out to me:</h3>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height='45px' width='45px'/> 
     <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="45px" height="45px" />
     <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="45px" height="45px" />
+    <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" width="45px" height="45px" />
        
 </p>
 -Game Engine
