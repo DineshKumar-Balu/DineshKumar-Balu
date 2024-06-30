@@ -9,6 +9,7 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+
   
 </div>
 
@@ -63,6 +64,8 @@ Feel free to reach out to me:</h3>
   </a>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" height='45px' width='45px'/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height='45px' width='45px'/>
+  <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="65" height="65" />
+  <img src= "https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" width="65" height="65" />
 </p>
 - Tools
 <br><br>
