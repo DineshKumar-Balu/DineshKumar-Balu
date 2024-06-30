@@ -8,6 +8,7 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
   
 </div>
 
@@ -86,6 +87,7 @@ Feel free to reach out to me:</h3>
 <br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DineshKumar-Balu&show_icons=true&locale=en&layout=compact" alt="DineshKumar-Balu" /></p>
+
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Dinesh_Kumar_AI?theme=light&font=Marcellus)](https://leetcode.com/u/Dinesh_Kumar_AI/)
