@@ -1,15 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**DineshKumar-Balu/DineshKumar-Balu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<h1 align="center">Hi 👋, I'm DINESH KUMAR B</h1>
-<h3 align="center">A Passionate Software Engineer</h3>
-<p align="center">🚀 Tech Evangelist | Future Software Engineer | Code Voyager | Crafting Innovative Tech Solutions 💻🌐</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=DineshKumar-Balu&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh" /> 
-</p>
+<h1 align="center">Hi 👋, I'm Dinesh Kumar B</h1>
+<h3 align="center">Doing my final year in Kongu Engineering College in Artificial Intelligence and Data science student and fresher with a passion for technology</h3>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="60" height="60" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
@@ -19,50 +11,39 @@
   
 </div>
 
-<br>
-<br>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0NDkzOTUsIm5iZiI6MTcwNjQ0OTA5NSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTI4VDEzMzgxNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwNTE1MDg1OTU4ZGI2OTQyNjAzOTdkODA1OWQ0MDA3ZmMzZjU4Y2E5ZWMwY2QxMzUzNzJjZTNjNThmZmMxNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.d0pD5PGR11FJtfk-V_ezSRFeX3vH38ojigiobpnTy0o">
-<br><br>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinithi678&label=Profile%20views&color=0e75b6&style=flat" alt="srinithi678" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m currently working on Innvoation
+- 🔭 I’m currently working on **Progress**
 
-- 💬 Ask me about **Java , Python**
+- 🌱 I’m currently learning **DBMS,Java**
+
+- 💬 Ask me about **Machine Learning,Deep Learning**
 
 - 📫 How to reach me **dineshkumarb.21aid@kongu.edu**
+ <br>
 
-- 📄 Know about me
-
-- ⚡ Fun fact **' Commitment Issues Resolved '**
-
-<br>
-<br>
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dineshkumar-balasubramaniyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dineshkumar-balasubramaniyan/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/dineshkumar" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Dinesh_Kumar_AI/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Dinesh_Kumar_AI/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dineshkumar-balasubramaniyan/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dineshkumar-balasubramaniyan" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Dinesh_Kumar_AI/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dinesh_Kumar_AI" height="30" width="40" /></a>
 </p>
-<br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Languages and Tools:</h3>
 - Programming Languages
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py,js" />
+    <img src="https://skillicons.dev/icons?i=java,py,js" />
   </a>
 </p>
 - Frontend
 <br><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
   </a>
 </p>
 - Backend
@@ -78,6 +59,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" />
   </a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg" height='45px' width='45px'/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height='45px' width='45px'/>
 </p>
 - Tools
 <br><br>
@@ -85,12 +68,27 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,postman,figma" />
   </a>
-    <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/>
- 
+    <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/> 
 </p>
+-Game Engine
+<p align="left">
+  <a href="https://skillicons.dev">
+  </a>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" height='45px' width='45px'/>
+</p>
+
+
+
 <h3 align="left">Activity:</h3>
 
-![Dinesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DineshKumar-Balu&custom_title=Dinesh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Sri's Graph](https://github-readme-activity-graph.vercel.app/graph?username=srinithi678&custom_title=Sri's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinithi678&show_icons=true&locale=en&layout=compact" alt="srinithi678" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinithi678&show_icons=true&locale=en" alt="srinithi678" /></p>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Srinithi_52?theme=light&font=Marcellus)](https://leetcode.com/u/Srinithi_52/)
+
+
