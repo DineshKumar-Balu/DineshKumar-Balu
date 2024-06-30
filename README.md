@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **DBMS,Java**
 
-- 💬 Ask me about **Machine Learning,Deep Learning**
+- 💬 Ask me about **Machine Learning,Deep Learning,Genrative AI,Data Migration,GCP**
 
 - 📫 How to reach me **dineshkumarb.21aid@kongu.edu**
  <br>
@@ -71,7 +71,8 @@ Feel free to reach out to me:</h3>
     <img src="https://skillicons.dev/icons?i=git,postman,figma" />
   </a>
     <img src="https://github.com/marclelijveld/Power-BI-Icons/raw/main/SVG/Power-BI.svg" height='45px' width='45px'/> 
-    
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" height='45px' width='45px'/> 
+       
 </p>
 -Game Engine
 <p align="left">
